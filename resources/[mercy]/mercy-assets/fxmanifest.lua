@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 shared_scripts {
-    'shared/sh_*.lua',
+    '@mercy-config/[mercy-assets]/sh_*.lua',
 }
 
 client_scripts {

@@ -4,7 +4,7 @@ game 'gta5'
 lua54 'yes'
 
 shared_scripts {
-    'shared/sh_*.lua',
+    '@mercy-config/[mercy-bennys]/sh_*.lua',
 }
 
 client_script {

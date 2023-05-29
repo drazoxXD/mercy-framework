@@ -7,7 +7,7 @@ description 'Admin Menu'
 ui_page "nui/index.html"
 
 shared_scripts {
-    'shared/sh_config.lua',
+    '@mercy-config/[mercy-admin]/sh_*.lua',
     'locale.lua',
     'locales/en.lua', -- Change this to your desired language.
 }

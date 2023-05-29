@@ -3,7 +3,7 @@ game 'gta5'
 
 
 shared_scripts {
-    'shared/sh_*.lua',
+    '@mercy-config/[mercy-business]/sh_*.lua',
 }
 
 client_scripts {
