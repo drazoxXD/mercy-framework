@@ -5,7 +5,13 @@ description 'This is a contribution from Drazox#8271! This script is designed to
 
 --Additional files here
 files {
-  '[mercy-cleanup]/sh_*.lua'
+  '[mercy-cleanup]/sh_*.lua',
+  '[mercy-admin]/sh_*.lua',
+  '[mercy-animations]/sh_*.lua',
+  '[mercy-assets]/sh_*.lua',
+  '[mercy-bennys]/sh_*.lua',
+  '[mercy-business]/sh_*.lua',
+
 }
 
 
